@@ -31,3 +31,7 @@ Runs a command with administrator privileges.
 ## history
 
 Shows previously executed commands.
+
+## rmdir
+
+Removes a directory.
