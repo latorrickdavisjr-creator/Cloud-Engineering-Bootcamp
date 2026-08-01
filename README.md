@@ -1,8 +1,23 @@
-# Cloud Engineering Bootcamp
+# ☁️ AWS Cloud Engineering Bootcamp
 
-## Goal
+Welcome!
 
-Become an AWS Cloud Engineer through hands-on projects and real-world business scenarios.
+I'm documenting my journey from beginner to AWS Cloud Engineer through hands-on projects, labs, and business scenarios.
+
+## Current Goal
+
+Become a Cloud Engineer with a strong foundation in:
+
+- Linux
+- Networking
+- Python
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Cloud Security
+
+---
 
 ## Current Progress
 
@@ -10,18 +25,17 @@ Become an AWS Cloud Engineer through hands-on projects and real-world business s
 - ⏳ Week 2 - Networking
 - ⏳ Week 3 - Git & GitHub
 - ⏳ Week 4 - Python
-- ⏳ AWS Foundations
-- ⏳ Terraform
-- ⏳ Docker
-- ⏳ Kubernetes
-- ⏳ Cloud Security
+
+---
 
 ## Certifications
 
 - [ ] CompTIA Security+
-- [ ] AWS Cloud Practitioner
+- [ ] AWS Certified Cloud Practitioner
 - [ ] AWS Solutions Architect Associate
 
-## Current Project
+---
 
-Week 1 – Linux Fundamentals
+## Featured Projects
+
+Coming soon...
